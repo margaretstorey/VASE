@@ -7,5 +7,7 @@ For research that can be viewed through a design science lens, we provide a temp
 
 We also welcome suggestions on how to improve the existing template(s) or to add or propose new templates. 
 
-To contribute a new template suggestion or a visual abstract for your research, please either submit a pull request with a commit message describing your contribution or send an email with your contribution to mstorey@uvic.ca.  
+To contribute a new template suggestion or a visual abstract for your research, please either submit a pull request with a commit message describing your contribution or send an email with your contribution to mstorey@uvic.ca. 
+
+More details will be posted here soon!
 
